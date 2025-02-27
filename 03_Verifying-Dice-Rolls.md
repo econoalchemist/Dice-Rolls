@@ -13,11 +13,11 @@ It's important to understand that it is not advisable to use your actual dice ro
 
 With a pen & notepad, start rolling the dice, writing down the number, and entering the number on the ColdCard. Repeat 50 times for 128 bits of entropy or 99 times for 256 bits of entropy. Entropy is calculated by using log2(6^99) = 255.9.
 
-[insert video]
+[![Dice Rolls Video](/assets/DiceRollsVideoThumbnail.png)](https://bitcointv.com/w/hXNgkc8UcD52kS47gyU14v "Dice Rolls Video")
 
 Now that the dice rolls have been copied to the notebook and entered into the ColdCard, let's see what 24-word seed phrase the ColdCard comes up with. This will also be written down.
 
-[insert video]
+[![Seed Phrase Video](/assets/seed-words-video-thumbnail.png)](https://bitcointv.com/w/6v6ZS3FCc9ZwQhkAnA4Umf "Seed Phrase Video")
 
 A BIP39 passphrase is not necessary to use while simply verifying the dice roll math. But I am going to cover the topic here because I think it is an important added security that should be used often. Adding a BIP39 passphrase can be a useful technique for adding an extra piece of security. With the BIP39 passphrase, it is like having a "25th word" in that this passphrase will also be required in addition to the 24-word seed phrase in order to restore the wallet. 
 
@@ -31,7 +31,7 @@ Using a 16-character passphrase allows me to designate two additional washers in
 
 Once the BIP39 passphrase is applied to your main ColdCard wallet, the new wallet fingerprint will be displayed. This should also be documented since it can be used as a means to verify that you have entered the correct BIP39 phrase next time the wallet is accessed. The ColdCard wallet has no way of knowing if the user has entered the correct BIP39 passphrase or not. Any string of characters will generate a valid wallet, but if you enter the wrong BIP39 passphrase, then you will be looking at an empty wallet. Since the wallet fingerprint is 8 characters, I will also be stamping it into a washer to include with the backup.
 
-[insert video]
+[![Passphrase Video](/assets/passphrase-video-thumbnail.png)](https://bitcointv.com/w/aNGn76YhmDTMstWipYh9Fk "Passphrase Video")
 
 Now that the dice rolls have been entered and the 24-word seed phrase has been copied down, the dice roll math can be verified. Everything done so far has been copied into the notebook:
 
