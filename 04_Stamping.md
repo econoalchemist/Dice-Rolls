@@ -11,7 +11,7 @@ If you don't have a 3D printer, you can purchase these jigs from [CryptoCloaks](
 
 Make sure to source all the materials correctly, this jig was designed to use metric hardware. It is recommended to use double sided tape to keep the washers and jig aligned while stamping, but I didn't use any double sided tape and I was still very pleased with the results. My son helped supervise me to make sure I got the stamping done right.
 
-[insert video]
+[![Stamping Video](/assets/stamping-video-thumbnail.png)](https://bitcointv.com/w/5qVLEUq3KA56GUkJEWAFpu "Stamping Video")
 
 Once finished, you will have a robust stainless steel backup of your 24-word seed phrase.
 
