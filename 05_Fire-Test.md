@@ -1,7 +1,7 @@
 # Fire & Water Testing the Steel Backup
 I was curious how well a stainless steel washer backup would be able to withstand extreme heat. So I heated up the backup until it was white hot and just starting to melt. Then took the washers apart and found that they were all still totally legible. 
 
-[insert video]
+[![Stamping Video](/assets/fire-video-thumbnail.png)](https://bitcointv.com/w/gj54869Xm3yUTes6gAti6E "Fire Video")
 
 ![](assets/IMG_4846.JPG)
 ![](assets/IMG_4849.JPG)
