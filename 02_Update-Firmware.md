@@ -11,7 +11,7 @@ Next, scroll down to the Advanced: Verify Your Downloads section. Once there, cl
 
 ["4589779ADFC14F3327534EA8A3A31BAD5A2A5B10"](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xA3A31BAD5A2A5B10)
 
-![](assets/verify1.png)
+![](assets/verify1.jpg)
 
 Clicking on that hyperlink will bring the user to the plaintext html page which contains the public PGP key for [peter@coinkite](https://twitter.com/DocHex). Press ctrl+s to save the PGP public key. 
 
@@ -38,7 +38,7 @@ Once the PGP public key has been imported it will be displayed in the list on Kl
 ![](assets/Verify13.png)
 
 Now that the PGP public key is imported and certified, navigate back to: https://coldcardwallet.com/docs/upgrade and scroll down to the Advanced: Verify Your Downloads section again. This time, click on the hyperlink for the clear-signed text file.
-![](assets/verify3.png)
+![](assets/verify3.jpg)
 
 Clicking on that hyperlink will bring the user to the plain text html page which contains all of the ColdCard wallet firmware files and their corresponding SHA256 hash values. Again, hit ctrl+s to save this, ensure the file type is set to all types, and then save it to the PC as an .asc file.
 
