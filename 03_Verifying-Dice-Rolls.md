@@ -13,7 +13,7 @@ It's important to understand that it is not advisable to use your actual dice ro
 
 With a pen & notepad, start rolling the dice, writing down the number, and entering the number on the ColdCard. Repeat 50 times for 128 bits of entropy or 99 times for 256 bits of entropy. Entropy is calculated by using log2(6^99) = 255.9.
 
-[![Dice Rolls Video](/assets/DiceRollsVideoThumbnail.png)](https://bitcointv.com/w/hXNgkc8UcD52kS47gyU14v "Dice Rolls Video")
+[![Dice Rolls Video](/assets/DiceRollsVideoThumbnail.png)](https://bitcointv.com/w/hXNgkc8UcD52kS47gyU14v "Dice Rolls Video" target="_blank" rel="noopener noreferrer")
 
 Now that the dice rolls have been copied to the notebook and entered into the ColdCard, let's see what 24-word seed phrase the ColdCard comes up with. This will also be written down.
 
